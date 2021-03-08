@@ -12,7 +12,7 @@ namespace Vize_Final
     public partial class FormNot : Form
     {
         //bool durum = true;
-        string gk = "Geçti";
+        string gk = "Geçtiggggg";
         TextBox textBoxBut;
         Label labelBut;
 
